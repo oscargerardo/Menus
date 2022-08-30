@@ -263,6 +263,12 @@
     top: 260px;
 }
 
+.carne{
+    position:absolute;
+    left: 800px;
+    top: 350px;
+}
+
 .pescado:hover,
 .pierna_pollo:hover,
 .pan_integral:hover,
@@ -284,7 +290,8 @@
 .rabanos:hover,
 .trigo:hover,
 .frutosS:hover,
-.frutosSe:hover
+.frutosSe:hover,
+.carne:hover
 {
     width: 130px;
     height: 120px;
