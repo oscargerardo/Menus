@@ -222,6 +222,47 @@
     top: 200px;
 }
 
+.brocolibro{
+    position:absolute;
+    left: 1050px;
+    top: 100px;
+}
+
+.huevo{
+    position:absolute;
+    left: 300px;
+    top: 120px;
+}
+
+.alfalfa{
+    position:absolute;
+    left: 600px;
+    top: 400px;
+}
+
+.rabanos{
+    position:absolute;
+    left: 800px;
+    top: 400px;
+}
+
+.trigo{
+    position:absolute;
+    left: 450px;
+    top: 400px;
+}
+
+.frutosS{
+    position:absolute;
+    left: 700px;
+    top: 400px;
+}
+.frutosSe{
+    position:absolute;
+    left: 420px;
+    top: 260px;
+}
+
 .pescado:hover,
 .pierna_pollo:hover,
 .pan_integral:hover,
@@ -236,8 +277,16 @@
 .ajo:hover,
 .brocoli:hover,
 .nuez:hover,
-.jitomate:hover
+.jitomate:hover,
+.brocolibro:hover,
+.huevo:hover,
+.alfalfa:hover,
+.rabanos:hover,
+.trigo:hover,
+.frutosS:hover,
+.frutosSe:hover
 {
     width: 130px;
     height: 120px;
+    cursor: pointer;
 }
